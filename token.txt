@@ -1,2 +1,3 @@
 // tokens are split with the Enter key
-dcc135d1eec82f60071b0eb08480567c60ffe75e06343da7b3edabe6284d4f54ec99bfadcbd5dd701d345
+dcc135d1ee60071b0eb08480567c60ffe75e06343da7b3edabe6284d4f54ec99bfadcbd5dd701d345
+// Пример выше
